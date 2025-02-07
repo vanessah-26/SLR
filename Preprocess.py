@@ -206,13 +206,5 @@ df['Image'] = resized_images
 for img in df['Image']:
   print(img.shape)
 
-#should print:
-# (224, 224, 3)
-# (224, 224, 3)
-# (224, 224, 3)
-# (224, 224, 3)
-# (224, 224, 3)
-# (224, 224, 3)
-# (224, 224, 3)
-# ...
+
 
